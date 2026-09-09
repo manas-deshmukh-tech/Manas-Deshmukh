@@ -1,171 +1,264 @@
-```markdown
-# Hi, I'm Manas Deshmukh 👋
+````markdown
+<!-- HEADER -->
 
-### 🎓 BCA Graduate | MCA Pursuing | Aspiring Data Analyst 📊
+<div align="center">
 
-I am a **BCA graduate currently pursuing MCA**, with a strong interest in **Data Analytics, Data Science, Database Management, and Software Development**.
+# 👋 Hi, I'm **Manas Deshmukh**
 
-I enjoy working with data, solving problems, building projects, and learning new technologies.
+### 🎓 BCA Graduate | 🎓 MCA Pursuing | 📊 Aspiring Data Analyst
+
+**Turning Data into Insights • Building with Technology • Learning Every Day 🚀**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 **BCA Graduate** currently pursuing **MCA**
+
+📊 Aspiring **Data Analyst** passionate about turning raw data into meaningful insights.
+
+🐍 I enjoy working with **Python, SQL, Excel and Power BI** to analyze data, identify trends and build interactive dashboards.
+
+💡 I also have a strong foundation in **Computer Science, Programming, DBMS, Web Development and Software Engineering** from my BCA & MCA studies.
+
+🚀 Currently focused on improving my skills in **Data Analytics, Data Science, SQL, Power BI and Machine Learning**.
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **Master of Computer Applications (MCA)** — Pursuing
-- 🎓 **Bachelor of Computer Applications (BCA)** — Completed
+| Degree | Status |
+|--------|--------|
+| 🎓 **Master of Computer Applications (MCA)** | 🟢 Pursuing |
+| 🎓 **Bachelor of Computer Applications (BCA)** | ✅ Completed |
 
 ---
 
-## 💻 Technical Skills
+# 🛠️ Tech Stack & Skills
 
 ### 📊 Data Analytics
 
-- Python for Data Analysis
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- Data Visualization
-- Statistics
+<p align="left">
 
-### 🗄️ Database & SQL
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 
-- SQL
-- MySQL
-- Database Management System (DBMS)
-- Joins
-- Subqueries
-- Aggregate Functions
-- GROUP BY & HAVING
-- Views
-- Stored Procedures
-- Normalization
+</p>
+
+**Skills:**  
+`Data Cleaning` • `Data Wrangling` • `EDA` • `Data Visualization` • `Statistics` • `KPI Analysis` • `Business Insights`
+
+---
+
+### 🗄️ SQL & Database
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+**Skills:**  
+`Joins` • `Subqueries` • `GROUP BY` • `HAVING` • `Aggregate Functions` • `Views` • `Stored Procedures` • `Normalization` • `DBMS`
+
+---
 
 ### 📈 Business Intelligence
 
-- Microsoft Excel
-- Power Query
-- Pivot Tables & Charts
-- VLOOKUP
-- INDEX & MATCH
-- Power BI
-- DAX
-- Data Modeling
-- Interactive Dashboards
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+
+</p>
+
+**Skills:**  
+`Power Query` • `DAX` • `Data Modeling` • `Pivot Tables` • `VLOOKUP` • `INDEX & MATCH` • `Dashboards` • `Reports`
+
+---
 
 ### 💻 Programming Languages
 
-- Python
-- SQL
-- Java
-- C
-- C++
-- HTML
-- CSS
-- JavaScript
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+---
 
 ### 🧠 Computer Science
 
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Operating Systems
-- Computer Networks
-- Software Engineering
-- DBMS
-- Web Development
-- Computer Architecture
+`Data Structures & Algorithms` • `OOP` • `DBMS` • `Operating Systems`
+
+`Computer Networks` • `Software Engineering` • `Web Development` • `Computer Architecture`
+
+---
 
 ### 🔧 Tools & Technologies
 
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
-- MySQL Workbench
-- Google Sheets
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
 
 ---
 
-## 📂 Projects
+# 🚀 Featured Projects
 
 ### 📊 Student Admission & Lead Source Performance Dashboard
 
-**Tools:** Power BI, Excel
+**Power BI • Excel**
 
-- Analyzed student inquiries and admission performance
-- Created KPI cards for inquiries, admissions, and conversion rate
-- Analyzed counselor performance
-- Compared different enquiry sources
-- Built monthly inquiry and admission trends
+> An interactive dashboard designed to analyze student inquiries, admissions, counselors and lead sources.
+
+**Highlights:**
+- 📌 KPI cards
+- 📈 Monthly inquiry trends
+- 👨‍💼 Counselor performance analysis
+- 🎓 Course conversion analysis
+- 🔍 Lead source analysis
+
+---
 
 ### 🤖 AI Impact Index 2030
 
-**Tools:** Python, Power BI
+**Python • Power BI**
 
-- Analyzed the potential impact of AI across different areas
-- Created visual insights and interactive analysis
-- Explored trends and patterns using data visualization
+> Data analysis project exploring the potential impact of Artificial Intelligence across different areas.
+
+**Highlights:**
+- Data analysis
+- Trend identification
+- Data visualization
+- Interactive dashboard
+
+---
 
 ### 🛒 E-Commerce Data Analysis
 
-**Tools:** Python, Pandas, Matplotlib, Seaborn, SQL
+**Python • Pandas • SQL • Matplotlib • Seaborn**
 
-- Cleaned and analyzed e-commerce data
-- Performed exploratory data analysis
-- Identified sales and customer trends
-- Created visualizations to communicate insights
+> Analyzed e-commerce data to identify sales, customer and business trends.
+
+**Highlights:**
+- Data cleaning
+- Exploratory Data Analysis
+- Customer analysis
+- Sales analysis
+- Data visualization
+
+---
 
 ### 👨‍💻 Face Recognition Attendance System
 
-**Tools:** Python, Flask, OpenCV, Face Recognition, MySQL
+**Python • Flask • OpenCV • Face Recognition**
 
-- Developed a face recognition-based attendance system
-- Implemented student registration and face capture
-- Automated attendance marking using facial recognition
-- Built a web-based interface using Flask
+> A web-based attendance system using facial recognition technology.
 
----
-
-## 📜 Certifications
-
-- 📊 Data Analytics
-- 📈 Business Analytics
-- 🤖 Data Science
-- 🧠 Artificial Intelligence
+**Highlights:**
+- Student registration
+- Face capture
+- Face recognition
+- Automated attendance
+- Web application
 
 ---
 
-## 📚 Currently Learning
+# 📜 Certifications
 
-- Advanced SQL
-- Advanced Excel
-- Power BI & DAX
-- Python for Data Analytics
-- Statistics
-- Machine Learning
-- Data Science
+🏆 **Data Analytics**
 
----
+🏆 **Business Analytics**
 
-## 🎯 Career Goal
+🏆 **Data Science**
 
-> To build a career as a **Data Analyst** and use data, analytical thinking, programming, and visualization to transform data into meaningful business insights.
+🏆 **Artificial Intelligence**
 
 ---
 
-## 🤝 Connect With Me
+# 📚 Currently Learning
 
-📧 **Email:** manas.deshmukh.work@gmail.com
-
-💼 **LinkedIn:** Add your LinkedIn profile here
-
-🐙 **GitHub:** Add your GitHub profile here
+```text
+Advanced SQL          ███████████████░░░░░  75%
+Power BI & DAX        ██████████████░░░░░░  70%
+Python Analytics      ███████████████░░░░░  75%
+Advanced Excel        ███████████████░░░░░  75%
+Statistics            ████████████░░░░░░░░  60%
+Machine Learning      ██████████░░░░░░░░░░  50%
+````
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# 🎯 Career Goal
 
-If you find my projects interesting, feel free to ⭐ star my repositories.
+> **"To become a skilled Data Analyst who can transform complex data into clear, actionable insights that support better business decisions."**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:manas.deshmukh.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *Analyze • Visualize • Learn • Build • Grow* 🚀
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
 ```
+
+### ⚠️ One thing you must change
+
+Find this:
+
+```text
+YOUR_GITHUB_USERNAME
+```
+
+and replace it with your actual GitHub username.
+
+Also replace the LinkedIn link:
+
+```text
+https://www.linkedin.com/
+```
+
+with your actual LinkedIn profile.
+
+This will give you a much more **professional Data Analyst + MCA profile** instead of a basic README.
