@@ -8,7 +8,6 @@
 </p>
 
 ---
-
 ## 👨‍💻 About Me
 
 🎓 **BCA Graduate** currently pursuing **MCA**
