@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manas Deshmukh
 
-### 🎓 BCA Graduate | 🎓 MCA Pursuing | 📊 Aspiring Data Analyst
+## 🎓 BCA Graduate | 🎓 MCA Pursuing | 📊 Aspiring Data Analyst
 
 <p align="center">
   <b>Turning Data into Insights • Building with Technology • Learning Every Day 🚀</b>
